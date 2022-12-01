@@ -120,8 +120,8 @@ switch(myDay){
     case 6:
         today = "Saturday";
         coffee = {
-            color: "brown",
-            name: "Mocha",
+            color: "",
+            name: "gray",
             pic: "mocha.jpg",
             alt: "A picture of a Mocha",
             day: "Saturday",
