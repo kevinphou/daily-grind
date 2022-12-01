@@ -60,7 +60,7 @@ switch(myDay){
     case 1:
         today = "Monday";
         coffee = {
-            color: "pink",
+            color: "#f7e7c8",
             name: "Bubble Tea",
             pic: "bubble-tea.jpg",
             alt: "A picture of a bubble tea",
@@ -72,7 +72,7 @@ switch(myDay){
     case 2:
         today = "Tuesday";
         coffee = {
-            color: "brown",
+            color: "#d7a96e",
             name: "Caramel Latte",
             pic: "caramel-latte.jpg",
             alt: "A picture of a caramel latte",
@@ -84,7 +84,7 @@ switch(myDay){
     case 3:
         today = "Wednesday";
         coffee = {
-            color: "black",
+            color: "#382819",
             name: "Cold Brew",
             pic: "cold-brew.jpg",
             alt: "A picture of a cold brew",
@@ -96,7 +96,7 @@ switch(myDay){
     case 4:
         today = "Thursday";
         coffee = {
-            color: "brown",
+            color: "#1c140c",
             name: "Drip",
             pic: "drip.jpg",
             alt: "A picture of a drip",
@@ -108,7 +108,7 @@ switch(myDay){
     case 5:
         today = "Friday";
         coffee = {
-            color: "brown",
+            color: "#d8cbc4",
             name: "Frappaccino",
             pic: "frappaccino.jpg",
             alt: "A picture of a frappaccino",
@@ -120,8 +120,8 @@ switch(myDay){
     case 6:
         today = "Saturday";
         coffee = {
-            color: "",
-            name: "gray",
+            color: "#967969",
+            name: "Mocha",
             pic: "mocha.jpg",
             alt: "A picture of a Mocha",
             day: "Saturday",
@@ -132,7 +132,7 @@ switch(myDay){
     case 0:
         today = "Sunday";
         coffee = {
-            color: "orange",
+            color: "#ed7014",
             name: "Pumpkin Spice Latte",
             pic: "pumpkin-spice-latte.jpg",
             alt: "A picture of a pumpkin spice latte",
